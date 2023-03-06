@@ -1,0 +1,7 @@
+[2023-03-06 14:32:04,188] - base_log.py[line:26] - fuc:__console- INFO: ---测试开始----
+[2023-03-06 14:32:04,189] - base_log.py[line:26] - fuc:__console- INFO: 输入密码
+[2023-03-06 14:32:04,190] - base_log.py[line:30] - fuc:__console- WARNING: ----测试结束----
+[2023-03-06 14:37:10,962] - base_log.py[line:26] - fuc:__console- INFO: ---测试开始----
+[2023-03-06 14:37:10,963] - base_log.py[line:26] - fuc:__console- INFO: 输入密码
+[2023-03-06 14:37:10,964] - base_log.py[line:30] - fuc:__console- WARNING: ----测试结束----
+[2023-03-06 14:42:26,287] - base_log.py[line:26] - fuc:__console- INFO: 生成的验证码为：gdgd
